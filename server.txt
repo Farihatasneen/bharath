@@ -1,0 +1,11 @@
+SRS
+software Requirement specification
+1.Introduction
+2.purpose
+3.Scope
+4.Overview
+5.functional requirement
+6.nonfunctional requirement
+7.Budget
+8.software Requirements
+9.Hardware Requirements
